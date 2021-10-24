@@ -33,9 +33,9 @@ body {
 }
 
 .pacman {
-  background-color: orange;
-  border-radius: 7.5px;
-  border: none;
+  background: white;
+  background-image: url("./pacman.png");
+  background-size: cover;
 }
 
 .blinky {
